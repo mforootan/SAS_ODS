@@ -1,5 +1,3 @@
-The spreadsheet file contains raw data for different ANOVA models, SAS files point to individual sheets within the spreadsheet.
-
 The ```XL2SAS test.xls``` contains sample raw data for different ANOVA models. They are letter-coded as follow:
 
 * A: [Split-split plot](https://www.google.com/search?q=split-split+plot+design)
